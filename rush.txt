@@ -328,12 +328,10 @@
     ================================================== -->
     <script type="text/javascript" src="js/main.js"></script>
 <div id="bar">
-   <a href="index.html"> 
-   <img src = "img/apo.png", height = 100%/> 
-   </a>
+   <img src = "img/apo.png", height = 100%>
    <ul id="barlist">
 		<li id="baritem"><a href="#tf-about" class="page-scroll">About Us</a></li>
-		<li id="baritem"><a href="rush.html">Rush</a></li>	
+		<li id="baritem"><a href="#contact_div">Rush</a></li>	
 		<li id="baritem"><a target="_blank">Alumni</a></li>
 		<li id="baritem"><a href="#tf-team" class="page-scroll">Meet the Eboard</a></li>	
 		
